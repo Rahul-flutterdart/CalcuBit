@@ -1,0 +1,2 @@
+# CalcuBit
+Personal Accounting Assistant
