@@ -45,18 +45,22 @@ Database: SQFlite for persistent local storage
 Notifications: Flutter Local Notifications
 Authentication: SharedPreferences for local storage
 
-
 🎯 What Can Users Do?
+
 🚀 Track & Manage Expenses
+
 Users can add, edit, and delete expenses effortlessly. Each expense entry includes details like category, amount, date, and description. The app ensures a user-friendly way to categorize expenses, making financial management simple and effective.
 
 📊 Visual Expense Insights (Pie Chart)
+
 Understanding spending habits is made easier with a pie chart representation of expenses. Users can quickly identify which categories (e.g., food, travel, shopping, bills) are consuming the most money, allowing for better budgeting and financial control.
 
 🔍 View Transaction History
+
 A detailed list of past expenses is available, helping users review and track their spending patterns over time.
 
 🔔 Stay Notified
+
 The app provides reminders and notifications, ensuring users never forget important financial transactions or upcoming expenses.
 
 🔒 Secure & Private
@@ -78,6 +82,7 @@ Each slice represents a category, making it easier to analyze spending habits.
 Users can modify an existing expense if needed.
 Unnecessary transactions can be deleted effortlessly.
 The pie chart updates dynamically based on changes.
+
 ✅ Why Use This App?
 📊 Visual Insights: Easily understand spending patterns via the pie chart.
 💡 Smart Expense Management: Keep track of where every penny goes.
